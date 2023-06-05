@@ -1,0 +1,10 @@
+Toy{id=2, toyName='Bumblbee', quantity=3, dropFrequency=79}
+Toy{id=4, toyName='Ball', quantity=1, dropFrequency=92}
+Toy{id=5, toyName='Dall', quantity=1, dropFrequency=93}
+Toy{id=4, toyName='Ball', quantity=1, dropFrequency=69}
+Toy{id=2, toyName='Bumblbee', quantity=3, dropFrequency=99}
+Toy{id=4, toyName='Ball', quantity=1, dropFrequency=87}
+Toy{id=2, toyName='Bumblbee', quantity=3, dropFrequency=80}
+Toy{id=5, toyName='Dall', quantity=1, dropFrequency=73}
+Toy{id=5, toyName='Dall', quantity=1, dropFrequency=73}
+Toy{id=3, toyName='Teddy Bear', quantity=1, dropFrequency=73}
